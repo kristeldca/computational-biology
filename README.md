@@ -34,9 +34,15 @@ I am currently working through the **Bioinformatics Stronghold** problem set. Be
 This section contains solutions focused on basic genetic sequence operations, transcriptions, and string parsing algorithms.
 
 ### Solved Problems
-| Problem ID | Problem Title | Concept / Algorithm Covered | Solution Link |
-| :---: | :--- | :--- | :---: |
-| **DNA** | Counting DNA Nucleotides | String manipulation, frequency counting | [View Code](./solutions/string-algorithms/01-DNA.py) |
+| Problem ID | Problem Title | Solution Link |
+| :---: | :--- | :---: |
+| **DNA** | Counting DNA Nucleotides | [View Code](./solutions/string-algorithms/01-DNA.py) |
+| **RNA** | Transcribing DNA into RNA | [View Code](./solutions/string-algorithms/02-RNA.py) |
+| **REVC** | Complementing a Strand of DNA | [View Code](./solutions/string-algorithms/03-REVC.py) |
+| **GC** | Computing GC Content | [View Code](./solutions/string-algorithms/04-GC.py) |
+| **SUBS** | Finding a Motif in DNA | [View Code](./solutions/string-algorithms/05-SUBS.py) |
+| **CONS** | Consensus and Profile | [View Code](./solutions/string-algorithms/06-CONS.py) |
+| **LCSM** | Finding a Shared Motif | [View Code](./solutions/string-algorithms/07-LCSM.py) |
 
 ---
 
@@ -61,3 +67,7 @@ computational-biology/
 
 ## 🛡️ Academic Integrity
 These solutions are uploaded strictly for **portfolio representation and personal tracking**. If you are currently solving Rosalind problems, please attempt them on your own first to honor the platform's learning model.
+
+---
+
+> 📬 **Looking to connect?** Reach me directly at: **`kristeldca@gmail.com`**
