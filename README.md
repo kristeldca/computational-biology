@@ -22,7 +22,7 @@ Bioinformatics bridges computer science and biology to solve complex genetic, ev
 
 I am currently working through the **Bioinformatics Stronghold** problem set. Below is the organized directory of my completed solutions.
 
-<!-- # String Algorithms 🔤 -->
+# String Algorithms 🔤
 
 <table>
   <tr>
@@ -44,7 +44,7 @@ This section contains solutions focused on basic genetic sequence operations, tr
 | **CONS** | Consensus and Profile | [View Code](./solutions/string-algorithms/06-CONS.py) |
 | **LCSM** | Finding a Shared Motif | [View Code](./solutions/string-algorithms/07-LCSM.py) |
 
-<!-- # Probability 🔤 -->
+# Probability
 
 <table>
   <tr>
@@ -62,6 +62,40 @@ This section contains solutions focused on computing the probablity of random ev
 | **IEV** | Calculating Expected Offspring | [View Code](./solutions/probability/02-IEV.py) |
 | **LIA** | Independent Alleles | [View Code](./solutions/probability/03-LIA.py) |
 
+# Heredity
+
+<table>
+  <tr>
+    <td bgcolor="#4a1b91"><b><font color="white">🏷️ Category</font></b></td>
+    <td bgcolor="#4a1b91"><a href="https://rosalind.info/problems/topics/heredity/"><font color="white">Heredity</font></a></td>
+  </tr>
+</table>
+
+This section contains solutions focused on inheritance of traits.
+
+### Solved Problems
+| Problem ID | Problem Title | Solution Link |
+| :---: | :--- | :---: |
+| **IPRB** | Mendel's First Law | [View Code](./solutions/probability/01-IPRB.py) |
+| **IEV** | Calculating Expected Offspring | [View Code](./solutions/probability/02-IEV.py) |
+| **LIA** | Independent Alleles | [View Code](./solutions/probability/03-LIA.py) |
+
+# Graph Algorithms
+
+<table>
+  <tr>
+    <td bgcolor="#a01c1c"><b><font color="white">🏷️ Category</font></b></td>
+    <td bgcolor="#a01c1c"><a href="https://rosalind.info/problems/topics/graph-algorithms/"><font color="white">Graph Algorithms</font></a></td>
+  </tr>
+</table>
+
+This section contains solutions focused on network and graph problems.
+
+### Solved Problems
+| Problem ID | Problem Title | Solution Link |
+| :---: | :--- | :---: |
+| **GRPH** | Overlap Graphs | [View Code](./solutions/graph-algorithms/01-GRPH.py) |
+
 ---
 
 ## 📂 Repository Structure
@@ -70,6 +104,8 @@ This section contains solutions focused on computing the probablity of random ev
 computational-biology/
 ├── README.md               # Project overview and portfolio map
 └── solutions/     # Core Rosalind problem subfolders grouped by topic
+    ├── probability/
+    │   └── 01-IPRB.py
     ├── string-algorithms/
     │   └── 01-DNA.py
 ```
