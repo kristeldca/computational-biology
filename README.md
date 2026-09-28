@@ -22,7 +22,7 @@ Bioinformatics bridges computer science and biology to solve complex genetic, ev
 
 I am currently working through the **Bioinformatics Stronghold** problem set. Below is the organized directory of my completed solutions.
 
-# String Algorithms 🔤
+<!-- # String Algorithms 🔤 -->
 
 <table>
   <tr>
@@ -44,6 +44,24 @@ This section contains solutions focused on basic genetic sequence operations, tr
 | **CONS** | Consensus and Profile | [View Code](./solutions/string-algorithms/06-CONS.py) |
 | **LCSM** | Finding a Shared Motif | [View Code](./solutions/string-algorithms/07-LCSM.py) |
 
+<!-- # Probability 🔤 -->
+
+<table>
+  <tr>
+    <td bgcolor="#4a1b91"><b><font color="white">🏷️ Category</font></b></td>
+    <td bgcolor="#4a1b91"><a href="https://rosalind.info/problems/topics/probability/"><font color="white">Probability</font></a></td>
+  </tr>
+</table>
+
+This section contains solutions focused on computing the probablity of random events.
+
+### Solved Problems
+| Problem ID | Problem Title | Solution Link |
+| :---: | :--- | :---: |
+| **IPRB** | Mendel's First Law | [View Code](./solutions/probability/01-IPRB.py) |
+| **IEV** | Calculating Expected Offspring | [View Code](./solutions/probability/02-IEV.py) |
+| **LIA** | Independent Alleles | [View Code](./solutions/probability/03-LIA.py) |
+
 ---
 
 ## 📂 Repository Structure
@@ -60,7 +78,7 @@ computational-biology/
 
 ## 🛠️ Tech Stack & Dependencies
 * **Primary Language:** Python 3.8.10
-* **Libraries:** Built-in Python modules (`Path`)
+* **Libraries:** Built-in Python modules (`Path`, `math`)
 * **Environment:** VS Code / Terminal
 
 ---
