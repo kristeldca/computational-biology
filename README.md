@@ -96,6 +96,22 @@ This section contains solutions focused on network and graph problems.
 | :---: | :--- | :---: |
 | **GRPH** | Overlap Graphs | [View Code](./solutions/graph-algorithms/01-GRPH.py) |
 
+# Genome Rearrangements
+
+<table>
+  <tr>
+    <td bgcolor="#089259"><b><font color="white">🏷️ Category</font></b></td>
+    <td bgcolor="#089259"><a href="https://rosalind.info/problems/topics/genome-rearrangements/"><font color="white">Genome Rearrangements</font></a></td>
+  </tr>
+</table>
+
+This section contains solutions focused on mutations that disrupt the sequence and scale of entire genetic intervals.
+
+### Solved Problems
+| Problem ID | Problem Title | Solution Link |
+| :---: | :--- | :---: |
+| **PERM** | Overlap Graphs | [View Code](./solutions/genome-rearrangements/01-PERM.py) |
+
 ---
 
 ## 📂 Repository Structure
