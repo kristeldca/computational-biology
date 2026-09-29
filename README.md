@@ -110,7 +110,24 @@ This section contains solutions focused on mutations that disrupt the sequence a
 ### Solved Problems
 | Problem ID | Problem Title | Solution Link |
 | :---: | :--- | :---: |
-| **PERM** | Overlap Graphs | [View Code](./solutions/genome-rearrangements/01-PERM.py) |
+| **PERM** | Enumerating Gene Orders | [View Code](./solutions/genome-rearrangements/01-PERM.py) |
+
+# Dynamic Programming
+
+<table>
+  <tr>
+    <td bgcolor="#054551"><b><font color="white">🏷️ Category</font></b></td>
+    <td bgcolor="#054551"><a href="https://rosalind.info/problems/topics/genome-rearrangements/"><font color="white">Dynamic Programming</font></a></td>
+  </tr>
+</table>
+
+This section contains solutions focused on solving complex problems by combining optimal solutions from progressively larger subproblems.
+
+### Solved Problems
+| Problem ID | Problem Title | Solution Link |
+| :---: | :--- | :---: |
+| **FIB** | Rabbits and Recurrence Relations | [View Code](./solutions/dynamic-programming/01-FIB.py) |
+| **FIBD** | Mortal Fibonacci Rabbits | [View Code](./solutions/dynamic-programming/02-FIBD.py) |
 
 ---
 
