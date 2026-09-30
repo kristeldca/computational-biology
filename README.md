@@ -145,6 +145,26 @@ This section contains solutions focused on fragmenting molecules to analyze thei
 | :---: | :--- | :---: |
 | **PRTM** | Calculating Protein Mass | [View Code](./solutions/computational-mass-spectrometry/01-PRTM.py) |
 
+# Combinatorics
+
+<table>
+  <tr>
+    <td bgcolor="#12470a"><b><font color="white">🏷️ Category</font></b></td>
+    <td bgcolor="#12470a"><a href="https://rosalind.info/problems/topics/combinatorics/"><font color="white">Combinatorics</font></a></td>
+  </tr>
+</table>
+
+This section contains solutions focused on counting techniques and combinatorial mathematics.
+
+### Solved Problems
+| Problem ID | Problem Title | Solution Link |
+| :---: | :--- | :---: |
+| **FIB** | Rabbits and Recurrence Relations | [View Code](./solutions/dynamic-programming/01-FIB.py) |
+| **FIBD** | Mortal Fibonacci Rabbits | [View Code](./solutions/dynamic-programming/02-FIBD.py) |
+| **MRNA** | Inferring mRNA from Protein | [View Code](./solutions/combinatorics/03-MRNA.py) |
+| **ORF** | Open Reading Frames | [View Code](./solutions/combinatorics/04-ORF.py) |
+| **PERM** | Enumerating Gene Orders | [View Code](./solutions/genome-rearrangements/01-PERM.py) |
+
 ---
 
 ## 📂 Repository Structure
