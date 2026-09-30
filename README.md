@@ -129,6 +129,22 @@ This section contains solutions focused on solving complex problems by combining
 | **FIB** | Rabbits and Recurrence Relations | [View Code](./solutions/dynamic-programming/01-FIB.py) |
 | **FIBD** | Mortal Fibonacci Rabbits | [View Code](./solutions/dynamic-programming/02-FIBD.py) |
 
+# Computational Mass Spectrometry
+
+<table>
+  <tr>
+    <td bgcolor="#660d39"><b><font color="white">🏷️ Category</font></b></td>
+    <td bgcolor="#660d39"><a href="https://rosalind.info/problems/topics/computational-mass-spectrometry/"><font color="white">Computational Mass Spectrometry</font></a></td>
+  </tr>
+</table>
+
+This section contains solutions focused on fragmenting molecules to analyze their chemical properties for precise identification.
+
+### Solved Problems
+| Problem ID | Problem Title | Solution Link |
+| :---: | :--- | :---: |
+| **PRTM** | Calculating Protein Mass | [View Code](./solutions/computational-mass-spectrometry/01-PRTM.py) |
+
 ---
 
 ## 📂 Repository Structure
