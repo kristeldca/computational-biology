@@ -181,6 +181,16 @@ This section contains solutions focused on insertions, deletions, and substituti
 | :---: | :--- | :---: |
 | **HAMM** | Counting Point Mutations | [View Code](./solutions/alignment/01-HAMM.py) |
 
+# Others
+
+This section contains solutions for uncategorized problems.
+
+### Solved Problems
+| Problem ID | Problem Title | Solution Link |
+| :---: | :--- | :---: |
+| **PROT** | Translating RNA into Protein | [View Code](./solutions/others/01-PROT.py) |
+| **MPRT** | Finding a Protein Motif | [View Code](./solutions/others/02-MPRT.py) |
+
 ---
 
 ## 📂 Repository Structure
@@ -199,7 +209,7 @@ computational-biology/
 
 ## 🛠️ Tech Stack & Dependencies
 * **Primary Language:** Python 3.8.10
-* **Libraries:** Built-in Python modules (`Path`, `math`)
+* **Libraries:** Built-in Python modules (`Path`, `math`, `requests`, `re`)
 * **Environment:** VS Code / Terminal
 
 ---
