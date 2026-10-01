@@ -165,6 +165,22 @@ This section contains solutions focused on counting techniques and combinatorial
 | **ORF** | Open Reading Frames | [View Code](./solutions/combinatorics/04-ORF.py) |
 | **PERM** | Enumerating Gene Orders | [View Code](./solutions/genome-rearrangements/01-PERM.py) |
 
+# Alignment
+
+<table>
+  <tr>
+    <td bgcolor="#632d0b"><b><font color="white">🏷️ Category</font></b></td>
+    <td bgcolor="#632d0b"><a href="https://rosalind.info/problems/topics/alignment/"><font color="white">Alignment</font></a></td>
+  </tr>
+</table>
+
+This section contains solutions focused on insertions, deletions, and substitutions between strings.
+
+### Solved Problems
+| Problem ID | Problem Title | Solution Link |
+| :---: | :--- | :---: |
+| **HAMM** | Counting Point Mutations | [View Code](./solutions/alignment/01-HAMM.py) |
+
 ---
 
 ## 📂 Repository Structure
