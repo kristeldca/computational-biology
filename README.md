@@ -43,6 +43,7 @@ This section contains solutions focused on basic genetic sequence operations, tr
 | **SUBS** | Finding a Motif in DNA | [View Code](./solutions/string-algorithms/05-SUBS.py) |
 | **CONS** | Consensus and Profile | [View Code](./solutions/string-algorithms/06-CONS.py) |
 | **LCSM** | Finding a Shared Motif | [View Code](./solutions/string-algorithms/07-LCSM.py) |
+| **REVP** | Locating Restriction Sites | [View Code](./solutions/string-algorithms/08-REVP.py) |
 
 # Probability
 
