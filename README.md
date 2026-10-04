@@ -44,6 +44,7 @@ This section contains solutions focused on basic genetic sequence operations, tr
 | **CONS** | Consensus and Profile | [View Code](./solutions/string-algorithms/06-CONS.py) |
 | **LCSM** | Finding a Shared Motif | [View Code](./solutions/string-algorithms/07-LCSM.py) |
 | **REVP** | Locating Restriction Sites | [View Code](./solutions/string-algorithms/08-REVP.py) |
+| **SPLC** | RNA Splicing | [View Code](./solutions/string-algorithms/09-SPLC.py) |
 
 # Probability
 
