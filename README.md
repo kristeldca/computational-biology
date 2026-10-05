@@ -45,6 +45,7 @@ This section contains solutions focused on basic genetic sequence operations, tr
 | **LCSM** | Finding a Shared Motif | [View Code](./solutions/string-algorithms/07-LCSM.py) |
 | **REVP** | Locating Restriction Sites | [View Code](./solutions/string-algorithms/08-REVP.py) |
 | **SPLC** | RNA Splicing | [View Code](./solutions/string-algorithms/09-SPLC.py) |
+| **LEXF** | Enumerating k-mers Lexicographically | [View Code](./solutions/string-algorithms/10-LEXF.py) |
 
 # Probability
 
@@ -211,7 +212,7 @@ computational-biology/
 
 ## 🛠️ Tech Stack & Dependencies
 * **Primary Language:** Python 3.8.10
-* **Libraries:** Built-in Python modules (`Path`, `math`, `requests`, `re`)
+* **Libraries:** Built-in Python modules (`Path`, `math`, `requests`, `re`, `itertools`)
 * **Environment:** VS Code / Terminal
 
 ---
