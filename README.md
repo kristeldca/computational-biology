@@ -193,6 +193,7 @@ This section contains solutions for uncategorized problems.
 | :---: | :--- | :---: |
 | **PROT** | Translating RNA into Protein | [View Code](./solutions/others/01-PROT.py) |
 | **MPRT** | Finding a Protein Motif | [View Code](./solutions/others/02-MPRT.py) |
+| **LONG** | Genome Assembly as Shortest Superstring | [View Code](./solutions/others/03-LONG.py) |
 
 ---
 
